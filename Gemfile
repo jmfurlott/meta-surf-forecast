@@ -16,7 +16,7 @@ gem 'bootstrap', '~> 4.0.0.alpha3'
 gem 'friendly_id'
 gem 'pg', '~> 0.18'
 gem 'puma'
-gem 'react-rails'
+gem 'react-rails', github: 'BookOfGreg/react-rails', branch: 'fix-776'
 gem 'slim-rails'
 gem 'webpacker'
 

@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/BookOfGreg/react-rails.git
-  revision: 2b7cf6889fc71d45dc8fa8d7c692e89e25f0af4a
+  revision: cc8528f8e892eaf49b9e2e518aad18cb3d29ed28
   branch: fix-776
   specs:
     react-rails (2.2.1)

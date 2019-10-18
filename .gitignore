@@ -29,4 +29,7 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+# Config files
 /config/ssl
+/config/database.yml
